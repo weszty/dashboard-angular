@@ -14,7 +14,7 @@ import { SectionOrdersComponent } from './sections/section-orders/section-orders
 import { SectionHealthComponent } from './sections/section-health/section-health.component';
 import { BarChartComponent } from './charts/bar-chart/bar-chart.component';
 import { LineChartComponent } from './charts/line-chart/line-chart.component';
-import { PieChartComponent } from './pie-chart/pie-chart.component';
+import { PieChartComponent } from './charts/pie-chart/pie-chart.component';
 
 @NgModule({
   declarations: [
